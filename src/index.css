@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.meta{
+  font-size: large;
+  font-weight: bold;
+  
+}
+.img{
+  margin:1rem;
+}
+.btn-wrapper-item button{
+  border: 2px solid rgb(0, 0, 0);
+  font-size: large;
+  text-decoration: none;
+  border-radius: 40px;
+  font-weight: bold;
+  padding: 10px;
+  background-color: rgb(58, 197, 197);
+}
+.plus{
+  width: 100px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
